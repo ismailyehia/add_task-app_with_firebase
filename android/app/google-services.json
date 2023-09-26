@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190454208889",
+    "project_id": "hetflutteris",
+    "storage_bucket": "hetflutteris.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190454208889:android:7c817586c66e751d8977a8",
+        "android_client_info": {
+          "package_name": "com.example.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190454208889-a20b9535c7tadt5ce9rk81m25pc16kj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtcqWn-fKRsOLn0ER00kqHUoKystwrHk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190454208889-a20b9535c7tadt5ce9rk81m25pc16kj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
